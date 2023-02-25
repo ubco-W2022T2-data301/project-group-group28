@@ -19,7 +19,7 @@ Our dataset is a population dataset that has the data for several variables for 
 
 - Karim Jassani. I love playing soccer and enjoying nature.
 - Aadil Shaji: I love watching movies and playing football.
-- Person 3: one sentence about you!
+- Muhammad Ashar: I love travelling and playing cricket.
 
 ## Images
 
