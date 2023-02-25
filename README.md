@@ -11,14 +11,14 @@ Our group is excited to explore the umbrella topic "Sustainable Development". De
 
 ## Describe your dataset in about 150-200 words
 
-Our dataset is a population dataset that has the data for several variables for countries all over the world for the last 6 years. The dataset is retrieved from Kaggle and the data itself was provided by two highly-credible websites data.worldbank.org and ourworldindata.org . The data contain variables such as Life expectancy, Population, CO2 emissions, Forest area, GDP per capita, Health expenditure, Military expenditure, and so on for countries all over the world. The data is collected for the years 2000 to 2015 so 16 years in total. The author has made this dataset by combining data from different sources for the purpose of data analytics, public interest, and learning. Users can use this dataset in order to answer their own research questions in which they are interested and can use various data analytics methods to do so. The data was collected from the websites by digitizing historical records.
+Our dataset is a population dataset that has the data for several variables for countries all over the world for the last 16 years. The dataset is retrieved from Kaggle and the data itself was provided by two highly-credible websites data.worldbank.org and ourworldindata.org . The data contain variables such as Life expectancy, Population, CO2 emissions, Forest area, GDP per capita, Health expenditure, Military expenditure, and so on for countries all over the world. The data is collected for the years 2000 to 2015 so 16 years in total. The author has made this dataset by combining data from different sources for the purpose of data analytics, public interest, and learning. Users can use this dataset in order to answer their own research questions in which they are interested and can use various data analytics methods to do so. The data was collected from the websites by digitizing historical records.
 
 
 
 ## Team Members
 
 - Karim Jassani. I love playing soccer and enjoying nature.
-- Person 2: one sentence about you!
+- Aadil Shaji: I love watching movies and playing football.
 - Person 3: one sentence about you!
 
 ## Images
