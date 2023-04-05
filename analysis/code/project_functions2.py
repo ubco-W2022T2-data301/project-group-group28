@@ -1,4 +1,12 @@
+import pandas as pd
+import numpy as np
+def load_data(path):
+    return pd.read_csv(path, sep=';')
+
 def load_and_process(path):
-    import pandas as pd
-    df = pd.read_csv(path).drop(["Forest area", "Individuals using the Internet", "People practicing open defecation", "Electric power consumption", "Year", "GDP per capita", "Military expenditure", "Beer consumption per capita"], axis = 1).rename(columns = {"CO2 emissions": "CO2"})
+    df = (load_data(path)
+          .drop(['Population', 'Forest area', 'Military expenditure', 'Beer consumption per capita'], axis=1)
+          .apply(lambda x: x.replace(0, np.nan) if x.name != 'Beer consumption per capita' else x, axis=0)
+          .dropna()
+         )
     return df
