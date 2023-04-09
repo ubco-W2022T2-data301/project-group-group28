@@ -23,9 +23,9 @@ Our dataset is a population dataset that has the data for several variables for 
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
+## Analysis 1 Dashboard - CO2 Emissions
 
-<img src ="images/test.png" width="100px">
+<img src ="images/Analysis 1 Dashboard.png" width="100px">
 
 ## References
 
