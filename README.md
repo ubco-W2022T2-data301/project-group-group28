@@ -31,6 +31,11 @@ Our dataset is a population dataset that has the data for several variables for 
 
 <img src ="images/analysis_2_dashboard_image.png" width ="1000px">
 
+### Analysis 3 Dashboard - GDP per Capita
+
+<img src ="images/analysis_3.png" width ="1000px">
+
+
 ## References
 
 {Add your stuff here}
