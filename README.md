@@ -27,7 +27,7 @@ Our dataset is a population dataset that has the data for several variables for 
 
 <img src ="images/Analysis 1 Dashboard.png" width="1000px">
 
-###Analysis 2 Dashboard - Life Expectancy
+### Analysis 2 Dashboard - Life Expectancy
 
 <img src ="images/analysis_2_dashboard_image.png" width ="1000px">
 
