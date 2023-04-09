@@ -23,7 +23,7 @@ Our dataset is a population dataset that has the data for several variables for 
 
 ## Images
 
-### Analysis 1 Dashboard - CO2 Emissions
+### Analysis 1 Dashboard - Carbon Dioxide Emissions
 
 <img src ="images/Analysis 1 Dashboard.png" width="1000px">
 
