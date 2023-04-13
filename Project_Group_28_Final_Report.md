@@ -50,11 +50,13 @@ Another important factor that significantly impacts CO<sub>2</sub> emissions is 
 
 <img src ="images/scatter1.png" width="500px">
 
-Here we can see positive correlation between the two factors - both electric power consumption and carbon dioxide emissions move in the same direction. 
+Here we can see positive correlation between the two factors - both electric power consumption and carbon dioxide emissions move in the same direction. Possibly due to the close connection between energy use and the generation of greenhouse gases, there is a positive correlation between CO2 emissions and electric power consumption. Energy use includes consumption of electric power, and when economies develop and grow, there is often an increase in the need for energy to run infrastructure, residences, and businesses. When fossil fuels like coal and oil, which are the main sources of electricity generation in many nations, are burned, the result is frequently a rise in CO2 emissions. 
 
 The last factors that significantly impacts CO<sub>2</sub> emisssions is GDP per capita:
 
-<img src ="images/scatter2.png" width="500px">
+<div style="text-align:center">
+    <img src="images/scatter2.png" width="500px">
+</div>
 
 Through the regression plot we can see that the relaiton between the two variable is close to a linear relation. Looking at the correlation matrix displayed earlier we can see the correlation coefficient is 0.828 which suggests a strong positive correlation between the two variables GDP per capita and carbon dioxide emissions. This correlation is possible attributed to the fact that as a country's economy grows, so does its energy consumption, which is often met by fossil fuels such as coal, oil, and gas that emit CO2.
 
