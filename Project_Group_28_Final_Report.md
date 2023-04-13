@@ -7,7 +7,7 @@ Our group is excited to explore the umbrella topic "Sustainable Development". De
 
 We explored our dataset using various numpy and pandas functions like shape, describe and nunique. As part of the EDA we explored the missing values in dataset using, using the missing values matrix which can be seen below:
 
-<img src ="images/msn.png" width="1000px">
+<img src ="images/msn.png" width="1000px" class="center"><br>
 
 Looking at the graph above we can see there are a signficant number of missing values for the variable people practicing open defecation, which is understandable because this might be difficult to record.
 
