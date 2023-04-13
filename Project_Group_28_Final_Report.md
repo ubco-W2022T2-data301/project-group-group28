@@ -60,3 +60,47 @@ Through the regression plot we can see that the relaiton between the two variabl
 
 #### Conclusion:
 Based on the exploratory data analysis conducted we can conclude that that are numerous factors that influence carbon dioxide emissions. According to the analysis, there is a correlation between carbon dioxide emissions and continent, a country's level of development, how much electricity is used, and GDP per capita. The continent of Oceania stands out as having the largest carbon dioxide emissions, whilst Africa has the lowest emissions. Additionally, Carbon dioxide emissions are often higher in nations with higher levels of economic development and electric power usage. The investigation also revealed a strong positive association between GDP per capita and carbon dioxide emissions, which shows that carbon dioxide emissions increase with GDP per capita. Overall, the analysis suggests that countries' economic development and power consumption play the most crucial role in their carbon dioxide emissions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##Research Question 3: Uncovering the driving forces behind GDP per capita
+Our third research question aimed to investigate how GDP per capita of a country affects other variables like Health Expenditure,CO2 emissions and Forrest area.From the hexbinplot below,we can see countries with the highest GDP per capita are the ones with least amount of health expenditure ![Image of hexbinplot]()
+As we can see from the scatterplot below countries with the highest GDP per capita like USA,Qatar,Singapore and Hong Kong have the highest CO2 emissions,which was expected since they are highly industrialised thus more factories emitting greenhouse gases like CO2.   ![Image of CO2 emissions against GDP per capita](images/sc.png) 
+We can infer from the below  hexbin graph that super rich countries(high GDP per capita countries) have extremely low forrest area since many of these countries are micro nations like Singapore,Malta,Luxembourg,Hong Kong and Qatar.Thus they can't afford to dedicate a sizable portion of their land for nature or greenery and thus comprimise it for industries like Petroleum and Oil rigs.
+![Image of hexbin plot of forest area against GDP per capita]()
+Moreover,I focused on understanding the common factors and trends amongst high GDP and low GDP countries.For example what are the common features or attributes amongst the rich countries.Rich countries(high GDP countries) have a strong postive correlation with CO2 emissions and Electric power consumption and light positive correlation with indiviuals using the internet.I already explained the reason for CO2 emissions, while Electric power consumption and indiviuals using the internet are strong signs of a developed country as they indicate a good quality of life as greater number of people have access to resources like internet and television.
+![Heatmap of countries factors](images/mat.png)
+I also wanted to find out if countries with High GDP that have relatively low life expectancy spend more on military than health sector? As we can see from the observations and filtering of the 10 richest countries by GDP per capita,and all of them have underwhelimng life expectancy for such rich nations, and the answer is obvious since most of them spend their GDP on military rather than healthcare.
+![Image of expenditure](images/e.png)
+Moreover, we can infer from the dual barplot shown below of a super rich country like Qatar, that it's military spending trumped it's health spending for sizable period of time.
+![Image of expenditure of Qatar](images/q.png)
+
+
+####Summary/Conclusion
+In conclusion,from my analysis I learned that rich countries might have lower life expectancy due to them not spedning enough on the health sector and instead countries with such high GDP per capita like the USA and Qatar spending money overwhelming on other sectors like (military for USA) and (petroleum extraction for Qatar) while socialist nordic countries who pride themselves on their healthcare obviously spend a lot more on their Health sector.Also countries really high GDP per capita have to sacrifice a lot on other factors like forrest area and CO2 emissions since either due to limited area or high density of factories to keep the money flowing in.
+
+
+[You can find the full analysis notebook here, including the code and the data.](https://github.com/ubco-W2022T2-data301/project-group-group28/blob/main/analysis/analysis3.ipynb)
