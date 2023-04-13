@@ -32,7 +32,7 @@ In the above correlation matrix we can see the correlation coefficiant of the al
 
 I was first curious to know if there is a trend between the continents and carbon dioxide emissions. Is there continent that particularly stands out in terms of carbon dioxide emissions. 
 
-<img src ="images/ridgeline.png" width="700px">
+<img src ="images/ridgeline.png" width="600px">
 
 In the above ridgeline plot, we have grouped the entries by continent, and we can observe that there are certainly some continents that have the higher carbon dioxide emissions than other. On one hand we can observe that on an average the continent of Oceania is one with highest carbon dioxide emissions, but that is becuase in the dataset there is only one country in the continent of Oceania. On the other hand, we can observe that the continent of Africa has the lowest carbon dioxide emissions.
 
@@ -40,15 +40,15 @@ Saying so, we must also note that what we discussed is averages, but continents 
 
 We can see a more visually appealing presentation of the same through geo maps in tableau as presented below:
 
-<img src ="images/continent.png" width="500px">
+<img src ="images/continent.png" width="600px">
 
 To understand the impact of geography on CO<sub>2</sub> emmissions, we can see the CO<sub>2</sub> emissions by country:
 
-<img src ="images/country.png" width="500px">
+<img src ="images/country.png" width="600px">
 
 Another important factor that significantly impacts CO<sub>2</sub> emissions is Electric Power Consumption
 
-<img src ="images/scatter1.png" width="500px">
+<img src ="images/scatter1.png" width="600px">
 
 Here we can see positive correlation between the two factors - both electric power consumption and carbon dioxide emissions move in the same direction. Possibly due to the close connection between energy use and the generation of greenhouse gases, there is a positive correlation between CO2 emissions and electric power consumption. Energy use includes consumption of electric power, and when economies develop and grow, there is often an increase in the need for energy to run infrastructure, residences, and businesses. When fossil fuels like coal and oil, which are the main sources of electricity generation in many nations, are burned, the result is frequently a rise in CO2 emissions. 
 
@@ -92,23 +92,27 @@ Based on the exploratory data analysis conducted we can conclude that that are n
 
 Our third research question aimed to investigate how GDP per capita of a country affects other variables like Health Expenditure,CO2 emissions and Forrest area.From the hexbinplot below,we can see countries with the highest GDP per capita are the ones with least amount of health expenditure 
 
-<img src ="images/hc.png" width="500px">
+<img src ="images/hc.png" width="600px">
 
 As we can see from the scatterplot below countries with the highest GDP per capita like USA,Qatar,Singapore and Hong Kong have the highest CO2 emissions,which was expected since they are highly industrialised thus more factories emitting greenhouse gases like CO2.   
-<img src ="images/sc.png" width="500px">
+
+<img src ="images/sc.png" width="600px">
+
 We can infer from the below  hexbin graph that super rich countries(high GDP per capita countries) have extremely low forrest area since many of these countries are micro nations like Singapore,Malta,Luxembourg,Hong Kong and Qatar.Thus they can't afford to dedicate a sizable portion of their land for nature or greenery and thus comprimise it for industries like Petroleum and Oil rigs.
-<img src ="images/hf.png" width="500px">
+
+<img src ="images/hf.png" width="600px">
+
 Moreover,I focused on understanding the common factors and trends amongst high GDP and low GDP countries.For example what are the common features or attributes amongst the rich countries.Rich countries(high GDP countries) have a strong postive correlation with CO2 emissions and Electric power consumption and light positive correlation with indiviuals using the internet.I already explained the reason for CO2 emissions, while Electric power consumption and indiviuals using the internet are strong signs of a developed country as they indicate a good quality of life as greater number of people have access to resources like internet and television.
 
-<img src ="images/mat.png" width="500px">
+<img src ="images/mat.png" width="600px">
 
 I also wanted to find out if countries with High GDP that have relatively low life expectancy spend more on military than health sector? As we can see from the observations and filtering of the 10 richest countries by GDP per capita,and all of them have underwhelimng life expectancy for such rich nations, and the answer is obvious since most of them spend their GDP on military rather than healthcare.
 
-<img src ="images/e.png" width="500px">
+<img src ="images/e.png" width="600px">
 
 Moreover, we can infer from the dual barplot shown below of a super rich country like Qatar, that it's military spending trumped it's health spending for sizable period of time.
 
-<img src ="images/q.png" width="500px">
+<img src ="images/q.png" width="600px">
 
 
 #### Summary/Conclusion
