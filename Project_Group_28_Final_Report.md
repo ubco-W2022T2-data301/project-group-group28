@@ -23,7 +23,7 @@ Next, we look at the relation between all the variables at a glance using the pa
 
 To understand the relation between all the variables better we then plotted a correlation matrix for the dataframe:
 
-<img src ="images/corr.png" width="600px">
+<img src ="images/corr.png" width="700px">
 
 In the above correlation matrix we can see the correlation coefficiant of the all the variables in the dataframe.
 
@@ -32,7 +32,7 @@ In the above correlation matrix we can see the correlation coefficiant of the al
 
 I was first curious to know if there is a trend between the continents and carbon dioxide emissions. Is there continent that particularly stands out in terms of carbon dioxide emissions. 
 
-<img src ="images/ridgeline.png" width="100px">
+<img src ="images/ridgeline.png" width="500px">
 
 In the above ridgeline plot, we have grouped the entries by continent, and we can observe that there are certainly some continents that have the higher carbon dioxide emissions than other. On one hand we can observe that on an average the continent of Oceania is one with highest carbon dioxide emissions, but that is becuase in the dataset there is only one country in the continent of Oceania. On the other hand, we can observe that the continent of Africa has the lowest carbon dioxide emissions.
 
