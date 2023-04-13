@@ -40,21 +40,21 @@ Saying so, we must also note that what we discussed is averages, but continents 
 
 We can see a more visually appealing presentation of the same through geo maps in tableau as presented below:
 
-<img src ="images/continent.png" width="100px">
+<img src ="images/continent.png" width="500px">
 
 To understand the impact of geography on CO<sub>2</sub> emmissions, we can see the CO<sub>2</sub> emissions by country:
 
-<img src ="images/country.png" width="100px">
+<img src ="images/country.png" width="500px">
 
 Another important factor that significantly impacts CO<sub>2</sub> emissions is Electric Power Consumption
 
-<img src ="images/scatter1.png" width="100px">
+<img src ="images/scatter1.png" width="500px">
 
 Here we can see positive correlation between the two factors - both electric power consumption and carbon dioxide emissions move in the same direction. 
 
 The last factors that significantly impacts CO<sub>2</sub> emisssions is GDP per capita:
 
-<img src ="images/scatter2.png" width="100px">
+<img src ="images/scatter2.png" width="500px">
 
 Through the regression plot we can see that the relaiton between the two variable is close to a linear relation. Looking at the correlation matrix displayed earlier we can see the correlation coefficient is 0.828 which suggests a strong positive correlation between the two variables GDP per capita and carbon dioxide emissions.
 
