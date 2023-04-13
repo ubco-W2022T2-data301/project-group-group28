@@ -86,7 +86,9 @@ Based on the exploratory data analysis conducted we can conclude that that are n
 
 
 
-##Research Question 3: Uncovering the driving forces behind GDP per capita
+## Research Question 3: Uncovering the driving forces behind GDP per capita
+
+
 Our third research question aimed to investigate how GDP per capita of a country affects other variables like Health Expenditure,CO2 emissions and Forrest area.From the hexbinplot below,we can see countries with the highest GDP per capita are the ones with least amount of health expenditure ![Image of hexbinplot]()
 As we can see from the scatterplot below countries with the highest GDP per capita like USA,Qatar,Singapore and Hong Kong have the highest CO2 emissions,which was expected since they are highly industrialised thus more factories emitting greenhouse gases like CO2.   ![Image of CO2 emissions against GDP per capita](images/sc.png) 
 We can infer from the below  hexbin graph that super rich countries(high GDP per capita countries) have extremely low forrest area since many of these countries are micro nations like Singapore,Malta,Luxembourg,Hong Kong and Qatar.Thus they can't afford to dedicate a sizable portion of their land for nature or greenery and thus comprimise it for industries like Petroleum and Oil rigs.
@@ -99,7 +101,7 @@ Moreover, we can infer from the dual barplot shown below of a super rich country
 ![Image of expenditure of Qatar](images/q.png)
 
 
-####Summary/Conclusion
+#### Summary/Conclusion
 In conclusion,from my analysis I learned that rich countries might have lower life expectancy due to them not spedning enough on the health sector and instead countries with such high GDP per capita like the USA and Qatar spending money overwhelming on other sectors like (military for USA) and (petroleum extraction for Qatar) while socialist nordic countries who pride themselves on their healthcare obviously spend a lot more on their Health sector.Also countries really high GDP per capita have to sacrifice a lot on other factors like forrest area and CO2 emissions since either due to limited area or high density of factories to keep the money flowing in.
 
 
