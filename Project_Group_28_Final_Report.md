@@ -13,17 +13,17 @@ Looking at the graph above we can see there are a signficant number of missing v
 
 Additionally, to understand the spread of variables, we made a violin plot for each of the variables. 
 
-<img src ="images/vplots.png" width="100px">
+<img src ="images/vplots.png" width="700px">
 
 Looking at the graph above we can see that the variable Beer Consumption has the smallest spread, whereas, the variable GDP Per Capita has the biggest spread.
 
 Next, we look at the relation between all the variables at a glance using the pairplot:
 
-<img src ="images/pairplot.png" width="100px">
+<img src ="images/pairplot.png" width="700px">
 
 To understand the relation between all the variables better we then plotted a correlation matrix for the dataframe:
 
-<img src ="images/corr.png" width="100px">
+<img src ="images/corr.png" width="600px">
 
 In the above correlation matrix we can see the correlation coefficiant of the all the variables in the dataframe.
 
