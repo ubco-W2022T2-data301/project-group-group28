@@ -59,10 +59,10 @@ The last factors that significantly impacts CO<sub>2</sub> emisssions is GDP per
 
 Through the regression plot we can see that the relaiton between the two variable is close to a linear relation. Looking at the correlation matrix displayed earlier we can see the correlation coefficient is 0.828 which suggests a strong positive correlation between the two variables GDP per capita and carbon dioxide emissions. This correlation is possible attributed to the fact that as a country's economy grows, so does its energy consumption, which is often met by fossil fuels such as coal, oil, and gas that emit CO2.
 
-#### Conclusion:
+#### Summary:
 Based on the exploratory data analysis conducted we can conclude that that are numerous factors that influence carbon dioxide emissions. According to the analysis, there is a correlation between carbon dioxide emissions and continent, a country's level of development, how much electricity is used, and GDP per capita. The continent of Oceania stands out as having the largest carbon dioxide emissions, whilst Africa has the lowest emissions. Additionally, Carbon dioxide emissions are often higher in nations with higher levels of economic development and electric power usage. The investigation also revealed a strong positive association between GDP per capita and carbon dioxide emissions, which shows that carbon dioxide emissions increase with GDP per capita. Overall, the analysis suggests that countries' economic development and power consumption play the most crucial role in their carbon dioxide emissions.
 
-
+To learn more about GDP Per capita, you can find the full analysis notebook [here](https://github.com/ubco-W2022T2-data301/project-group-group28/blob/main/analysis/analysis1.ipynb), including the code and the data.
 
 
 
@@ -115,8 +115,10 @@ Moreover, we can infer from the dual barplot shown below of a super rich country
 <img src ="images/q.png" width="600px">
 
 
-#### Summary/Conclusion
+#### Summary
 In conclusion,from my analysis I learned that rich countries might have lower life expectancy due to them not spedning enough on the health sector and instead countries with such high GDP per capita like the USA and Qatar spending money overwhelming on other sectors like (military for USA) and (petroleum extraction for Qatar) while socialist nordic countries who pride themselves on their healthcare obviously spend a lot more on their Health sector.Also countries really high GDP per capita have to sacrifice a lot on other factors like forrest area and CO2 emissions since either due to limited area or high density of factories to keep the money flowing in.
 
 To learn more about GDP Per capita, you can find the full analysis notebook [here](https://github.com/ubco-W2022T2-data301/project-group-group28/blob/main/analysis/analysis3.ipynb), including the code and the data.
+
+## Conclusion
 
