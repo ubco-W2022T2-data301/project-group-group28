@@ -54,7 +54,7 @@ Here we can see positive correlation between the two factors - both electric pow
 
 The last factors that significantly impacts CO<sub>2</sub> emisssions is GDP per capita:
 
-<img src ="images/scatter2.png" width="500px">
+<img src ="images/scatter2.png" width="500px" class="center"><br>
 
 
 Through the regression plot we can see that the relaiton between the two variable is close to a linear relation. Looking at the correlation matrix displayed earlier we can see the correlation coefficient is 0.828 which suggests a strong positive correlation between the two variables GDP per capita and carbon dioxide emissions. This correlation is possible attributed to the fact that as a country's economy grows, so does its energy consumption, which is often met by fossil fuels such as coal, oil, and gas that emit CO2.
