@@ -96,7 +96,7 @@ This shows that the as the number of individuals who use the internet increases,
 
 We can conclude that Life Expectancy is a important factor in our world and more research should be done to find out what can be done to enable humans to have longer, healthier, happier lives. From my research, I can conclude that Developed country status, People have access to basic drinking water services, and number of people having access to internet services are the major factors which affects Life Expectancy.
 
-To learn more about carbon dioxide emissions, you can find the full analysis notebook [here](https://github.com/ubco-W2022T2-data301/project-group-group28/blob/main/analysis/analysis2.ipynb), including the code and the data.
+To learn more about life expectancy, you can find the full analysis notebook [here](https://github.com/ubco-W2022T2-data301/project-group-group28/blob/main/analysis/analysis2.ipynb), including the code and the data.
 
 
 ## Research Topic 3: Uncovering the driving forces behind GDP per capita
