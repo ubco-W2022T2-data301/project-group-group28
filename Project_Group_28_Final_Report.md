@@ -66,25 +66,35 @@ To learn more about carbon dioxide emissions, you can find the full analysis not
 
 
 
+## Research Topic 2: 
+
+In today's world, Life expectancy is a statistic that countries all over the world keep track of. It has increased significantly with the tremendous advances in the field of medicine but it is not consistent all over the world. Why is this so? I am interested in finding out whether life expectancy is more or less in developed countries compared to less developed countries. I will do so by analyzing the factors which seem to most closely affect the life expectancy in countries all over the world.I wanted to research specifically about Developed country status and availability of basic water services and see how they affect Life Expectancy.
+
+I did the wrangling of the dataset and after creating a correlation matrix, I found that Life expectancy has highest correlation with people using at least basic drinking water services,  least developed status, individuals using internet and so on. So I focused on those factors when doing my analysis in tableau.
+
+<img src ="images/correlation_analysis2.png" width="600px" class="center"><br>
+
+I have made some graphs as part of my analysis. We have a line plot which focuses on the change in life expectancy over the years and seeing how different it is for people in countries where the number of people who use basic drinking water services is above its average and for the countries where the value is below the average. We can see that there is a significant difference of roughly 16 years in the two groups of countries. 
 
 
+<img src ="images/LifeandAverageWateranalysis2.png" width="600px" class="center"><br>
 
+Next, we are looking at how life expectancy changes between developed and least developed countries with the help of a line plot again. We can see that that there is a difference of roughly 14 years between the two groups. From this we can infer that highly developed countries often tend to have a much higher Life expectancy which could be due to quality of facilities they receive from their country. 
 
+<img src ="images/LifeandLeastDevelopedanalysis2.png" width="600px" class="center"><br>
 
+Next we have a bar graph which shows how life expectancy is distributed throughout the world. We can see that the North American, South American, Oceanic, and European tend to have a higher life expectancy and Asian and African countries seem to have a relatively lower life expectancy. This could be because of better lifestyles and also better healthcare facilities in the countries with higher life expectancy.
 
+<img src ="images/LifeandContinentanalysis2.png" width="600px" class="center"><br>
 
+We also have a line plot seeing how Life expectancy changes with Individuals using the Internet. 
+This shows that the as the number of individuals who use the internet increases, the life expectancy also increases. This could also be potentially due to the reason that in more developed countries, internet services seem to be more which could be why the life expectancy is more as people might have better lifestyles and more facilities as the country would most likely be overall developed. 
 
+<img src ="images/LifeandInternetanalysis2.png" width="600px" class="center"><br>
 
+#### Summary
 
-
-
-
-
-
-
-
-
-
+We can conclude that Life Expectancy is a important factor in our world and more research should be done to find out what can be done to enable humans to have longer, healthier, happier lives. From my research, I can conclude that Developed country status, People have access to basic drinking water services, and number of people having access to internet services are the major factors which affects Life Expectancy.
 
 
 ## Research Question 3: Uncovering the driving forces behind GDP per capita
