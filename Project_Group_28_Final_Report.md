@@ -66,7 +66,7 @@ To learn more about carbon dioxide emissions, you can find the full analysis not
 
 
 
-## Research Topic 2: 
+## Research Topic 2: Life Expectancy Uncovered: Unraveling the Factors that Impact Our Health and Longevity
 
 In today's world, Life expectancy is a statistic that countries all over the world keep track of. It has increased significantly with the tremendous advances in the field of medicine but it is not consistent all over the world. Why is this so? I am interested in finding out whether life expectancy is more or less in developed countries compared to less developed countries. I will do so by analyzing the factors which seem to most closely affect the life expectancy in countries all over the world.I wanted to research specifically about Developed country status and availability of basic water services and see how they affect Life Expectancy.
 
@@ -96,8 +96,10 @@ This shows that the as the number of individuals who use the internet increases,
 
 We can conclude that Life Expectancy is a important factor in our world and more research should be done to find out what can be done to enable humans to have longer, healthier, happier lives. From my research, I can conclude that Developed country status, People have access to basic drinking water services, and number of people having access to internet services are the major factors which affects Life Expectancy.
 
+To learn more about carbon dioxide emissions, you can find the full analysis notebook [here](https://github.com/ubco-W2022T2-data301/project-group-group28/blob/main/analysis/analysis2.ipynb), including the code and the data.
 
-## Research Question 3: Uncovering the driving forces behind GDP per capita
+
+## Research Topic 3: Uncovering the driving forces behind GDP per capita
 
 
 Our third research question aimed to investigate how GDP per capita of a country affects other variables like Health Expenditure,CO2 emissions and Forrest area.From the hexbinplot below,we can see countries with the highest GDP per capita are the ones with least amount of health expenditure 
