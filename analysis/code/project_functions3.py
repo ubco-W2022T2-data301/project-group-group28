@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 def load_and_process(file_path):
 
     # Method Chain 1 (Load data and remove unused columns)
