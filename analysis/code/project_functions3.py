@@ -1,9 +1,9 @@
 def load_and_process(file_path):
 
     # Method Chain 1 (Load data and remove unused columns)
-     load_data(path)
+     
     df1 = (
-          pd.read_csv(file_path, sep=';')
+          load_data(file_path).read_csv(file_path, sep=';')
           .drop(['Continent', 'Least Developed', 'Population', 'People practicing open defecation', 
                  'People using at least basic drinking water services', 'Obesity among adults', 
                  'Beer consumption per capita'], axis=1)
